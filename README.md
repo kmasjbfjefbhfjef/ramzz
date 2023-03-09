@@ -1,4 +1,4 @@
-!<img> (https://user-images.githubusercontent.com/116447470/215271699-9869ca21-056b-429a-94e6-c220c6c9157c.jpg)
+<img>(https://user-images.githubusercontent.com/116447470/215271699-9869ca21-056b-429a-94e6-c220c6c9157c.jpg)
 
 ![Typing SVG] (https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=About+me)
 
